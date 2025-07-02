@@ -20,3 +20,4 @@ This project encapsulates a dynamic journey of configuring and optimizing Active
 <h1>Summary</h1>
 
 Ultimately, this project illuminated not only a profound understanding of Active Directory but also its practical application in a real-world context. It demonstrated the ability to seamlessly integrate technology to foster streamlined teamwork while simultaneously showcasing the role of Active Directory in optimizing IT operations. The acquired skills and experience hold the potential to significantly contribute to elevated IT management practices.
+
